@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit_tb_isim_beh.exe" -prj "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit_tb_beh.prj" "work.BoothWallaceMult16Bit_tb" "work.glbl" 

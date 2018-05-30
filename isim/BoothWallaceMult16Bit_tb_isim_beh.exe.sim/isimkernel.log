@@ -1,0 +1,28 @@
+Command line:
+   BoothWallaceMult16Bit_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50765
+
+Sun May 27 18:40:55 2018
+
+
+ Elaboration Time: 0.05 sec
+
+ Current Memory Usage: 207.716 Meg
+
+ Total Signals          : 3381
+ Total Nets             : 2771
+ Total Signal Drivers   : 1553
+ Total Blocks           : 534
+ Total Primitive Blocks : 522
+ Total Processes        : 1557
+ Total Traceable Variables  : 30
+ Total Scalar Nets and Variables : 3203
+
+ Total Simulation Time: 0.06 sec
+
+ Current Memory Usage: 285.315 Meg
+
+Sun May 27 18:41:36 2018
+

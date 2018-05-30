@@ -1,0 +1,33 @@
+ISim log file
+Running: /home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit_tb_isim_beh.wdb 
+ISim P.20160913 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING:  For instance uut/BS0_l0/, width 1 of formal port SHIFTY is not equal to width 32 of actual constant.
+WARNING:  For instance uut/BS2_l0/, width 1 of formal port Y is not equal to width 32 of actual constant.
+WARNING:  For instance uut/BS0_l1/, width 1 of formal port SHIFTY is not equal to width 32 of actual constant.
+WARNING:  For instance uut/BS2_l1/, width 1 of formal port Y is not equal to width 32 of actual constant.
+WARNING:  For instance uut/BS0_l2/, width 1 of formal port SHIFTY is not equal to width 32 of actual constant.
+WARNING:  For instance uut/BS2_l2/, width 1 of formal port Y is not equal to width 32 of actual constant.
+WARNING:  For instance uut/BS0_l3/, width 1 of formal port SHIFTY is not equal to width 32 of actual constant.
+WARNING:  For instance uut/BS2_l3/, width 1 of formal port Y is not equal to width 32 of actual constant.
+WARNING:  For instance uut/BS0_l4/, width 1 of formal port SHIFTY is not equal to width 32 of actual constant.
+WARNING:  For instance uut/BS2_l4/, width 1 of formal port Y is not equal to width 32 of actual constant.
+WARNING:  For instance uut/BS0_l5/, width 1 of formal port SHIFTY is not equal to width 32 of actual constant.
+WARNING:  For instance uut/BS2_l5/, width 1 of formal port Y is not equal to width 32 of actual constant.
+WARNING:  For instance uut/BS0_l6/, width 1 of formal port SHIFTY is not equal to width 32 of actual constant.
+WARNING:  For instance uut/BS2_l6/, width 1 of formal port Y is not equal to width 32 of actual constant.
+WARNING:  For instance uut/BS0_l7/, width 1 of formal port SHIFTY is not equal to width 32 of actual constant.
+WARNING:  For instance uut/BS2_l7/, width 1 of formal port Y is not equal to width 32 of actual constant.
+WARNING:  For instance uut/BS0_l8/, width 1 of formal port SHIFTY is not equal to width 32 of actual constant.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# exit 0

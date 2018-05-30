@@ -1,0 +1,76 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o /home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit_tb_isim_beh.exe -prj /home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit_tb_beh.prj work.BoothWallaceMult16Bit_tb work.glbl 
+ISim P.20160913 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/ise/BoothWallaceMult16Bit_2017701177/FullAdder.v" into library work
+Analyzing Verilog file "/home/ise/BoothWallaceMult16Bit_2017701177/RippleCarryAdder.v" into library work
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/RippleCarryAdder.v" Line 33: Block identifier is required on this block
+Analyzing Verilog file "/home/ise/BoothWallaceMult16Bit_2017701177/HalfAdder.v" into library work
+Analyzing Verilog file "/home/ise/BoothWallaceMult16Bit_2017701177/BoothSelector.v" into library work
+Analyzing Verilog file "/home/ise/BoothWallaceMult16Bit_2017701177/BoothEncoder.v" into library work
+Analyzing Verilog file "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" into library work
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 83: Block identifier is required on this block
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 91: Block identifier is required on this block
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 99: Block identifier is required on this block
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 107: Block identifier is required on this block
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 115: Block identifier is required on this block
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 123: Block identifier is required on this block
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 131: Block identifier is required on this block
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 139: Block identifier is required on this block
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 147: Block identifier is required on this block
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 155: Block identifier is required on this block
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 163: Block identifier is required on this block
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 171: Block identifier is required on this block
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 179: Block identifier is required on this block
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 187: Block identifier is required on this block
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 195: Block identifier is required on this block
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 203: Block identifier is required on this block
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 211: Block identifier is required on this block
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 254: Block identifier is required on this block
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 265: Block identifier is required on this block
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 276: Block identifier is required on this block
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 289: Block identifier is required on this block
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 302: Block identifier is required on this block
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 318: Block identifier is required on this block
+WARNING:HDLCompiler:248 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 342: Block identifier is required on this block
+Analyzing Verilog file "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit_tb.v" into library work
+Analyzing Verilog file "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:189 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 86: Size mismatch in connection of port <Y>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 102: Size mismatch in connection of port <Y>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 118: Size mismatch in connection of port <Y>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 134: Size mismatch in connection of port <Y>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 150: Size mismatch in connection of port <Y>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 166: Size mismatch in connection of port <Y>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 182: Size mismatch in connection of port <Y>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 198: Size mismatch in connection of port <Y>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 97: Size mismatch in connection of port <SHIFTY>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 113: Size mismatch in connection of port <SHIFTY>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 129: Size mismatch in connection of port <SHIFTY>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 145: Size mismatch in connection of port <SHIFTY>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 161: Size mismatch in connection of port <SHIFTY>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 177: Size mismatch in connection of port <SHIFTY>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 193: Size mismatch in connection of port <SHIFTY>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 209: Size mismatch in connection of port <SHIFTY>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 81: Size mismatch in connection of port <SHIFTY>. Formal port size is 1-bit while actual signal size is 32-bit.
+Completed static elaboration
+Fuse Memory Usage: 95720 KB
+Fuse CPU Usage: 1030 ms
+Compiling module BoothEncoder
+Compiling module BoothSelector
+Compiling module FullAdder
+Compiling module RippleCarryAdder(width=17)
+Compiling module RippleCarryAdder(width=16)
+Compiling module HalfAdder
+Compiling module RippleCarryAdder(width=32)
+Compiling module BoothWallaceMult16Bit
+Compiling module BoothWallaceMult16Bit_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 10 Verilog Units
+Built simulation executable /home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit_tb_isim_beh.exe
+Fuse Memory Usage: 657724 KB
+Fuse CPU Usage: 1200 ms
+GCC CPU Usage: 1390 ms

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/RippleCarryAdder.v" Line 33: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 83: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 91: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 99: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 107: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 115: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 123: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 131: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 139: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 147: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 155: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 163: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 171: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 179: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 187: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 195: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 203: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 211: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 254: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 265: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 276: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 289: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 302: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 318: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="248" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 342: Block identifier is required on this block
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 81: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">SHIFTY</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1</arg>-bit while actual signal size is <arg fmt="%d" index="1">32</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 86: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">Y</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1</arg>-bit while actual signal size is <arg fmt="%d" index="1">32</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 89: Assignment to <arg fmt="%s" index="1">dump0</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 97: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">SHIFTY</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1</arg>-bit while actual signal size is <arg fmt="%d" index="1">32</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 102: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">Y</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1</arg>-bit while actual signal size is <arg fmt="%d" index="1">32</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 105: Assignment to <arg fmt="%s" index="1">dump1</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 113: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">SHIFTY</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1</arg>-bit while actual signal size is <arg fmt="%d" index="1">32</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 118: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">Y</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1</arg>-bit while actual signal size is <arg fmt="%d" index="1">32</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 121: Assignment to <arg fmt="%s" index="1">dump2</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 129: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">SHIFTY</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1</arg>-bit while actual signal size is <arg fmt="%d" index="1">32</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 134: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">Y</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1</arg>-bit while actual signal size is <arg fmt="%d" index="1">32</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 137: Assignment to <arg fmt="%s" index="1">dump3</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 145: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">SHIFTY</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1</arg>-bit while actual signal size is <arg fmt="%d" index="1">32</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 150: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">Y</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1</arg>-bit while actual signal size is <arg fmt="%d" index="1">32</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 153: Assignment to <arg fmt="%s" index="1">dump4</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 161: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">SHIFTY</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1</arg>-bit while actual signal size is <arg fmt="%d" index="1">32</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 166: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">Y</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1</arg>-bit while actual signal size is <arg fmt="%d" index="1">32</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 169: Assignment to <arg fmt="%s" index="1">dump5</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 177: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">SHIFTY</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1</arg>-bit while actual signal size is <arg fmt="%d" index="1">32</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 182: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">Y</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1</arg>-bit while actual signal size is <arg fmt="%d" index="1">32</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 185: Assignment to <arg fmt="%s" index="1">dump6</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 193: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">SHIFTY</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1</arg>-bit while actual signal size is <arg fmt="%d" index="1">32</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 198: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">Y</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1</arg>-bit while actual signal size is <arg fmt="%d" index="1">32</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 201: Assignment to <arg fmt="%s" index="1">dump7</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 209: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">SHIFTY</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1</arg>-bit while actual signal size is <arg fmt="%d" index="1">32</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 216: Assignment to <arg fmt="%s" index="1">dump8</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 349: Assignment to <arg fmt="%s" index="1">dummyF</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v" Line 241: Net &lt;<arg fmt="%s" index="1">WT13[12]</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v</arg>&quot; line <arg fmt="%s" index="2">89</arg>: Output port &lt;<arg fmt="%s" index="3">cout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">rca0</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v</arg>&quot; line <arg fmt="%s" index="2">105</arg>: Output port &lt;<arg fmt="%s" index="3">cout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">rca1</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v</arg>&quot; line <arg fmt="%s" index="2">121</arg>: Output port &lt;<arg fmt="%s" index="3">cout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">rca2</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v</arg>&quot; line <arg fmt="%s" index="2">137</arg>: Output port &lt;<arg fmt="%s" index="3">cout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">rca3</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v</arg>&quot; line <arg fmt="%s" index="2">153</arg>: Output port &lt;<arg fmt="%s" index="3">cout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">rca4</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v</arg>&quot; line <arg fmt="%s" index="2">169</arg>: Output port &lt;<arg fmt="%s" index="3">cout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">rca5</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v</arg>&quot; line <arg fmt="%s" index="2">185</arg>: Output port &lt;<arg fmt="%s" index="3">cout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">rca6</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v</arg>&quot; line <arg fmt="%s" index="2">201</arg>: Output port &lt;<arg fmt="%s" index="3">cout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">rca7</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v</arg>&quot; line <arg fmt="%s" index="2">216</arg>: Output port &lt;<arg fmt="%s" index="3">cout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">rca8</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v</arg>&quot; line <arg fmt="%s" index="2">255</arg>: Output port &lt;<arg fmt="%s" index="3">Cout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">[31].FAWT00_1</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v</arg>&quot; line <arg fmt="%s" index="2">266</arg>: Output port &lt;<arg fmt="%s" index="3">Cout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">[31].FAWT02_0</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v</arg>&quot; line <arg fmt="%s" index="2">277</arg>: Output port &lt;<arg fmt="%s" index="3">Cout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">[31].FAWT04_0</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v</arg>&quot; line <arg fmt="%s" index="2">290</arg>: Output port &lt;<arg fmt="%s" index="3">Cout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">[31].FAWT10_0</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v</arg>&quot; line <arg fmt="%s" index="2">319</arg>: Output port &lt;<arg fmt="%s" index="3">Cout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">[31].FAWT20_0</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v</arg>&quot; line <arg fmt="%s" index="2">343</arg>: Output port &lt;<arg fmt="%s" index="3">Cout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">[31].FAWT30_0</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/BoothWallaceMult16Bit_2017701177/BoothWallaceMult16Bit.v</arg>&quot; line <arg fmt="%s" index="2">349</arg>: Output port &lt;<arg fmt="%s" index="3">cout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">rpaF</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">WT13&lt;12:0&gt;</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="new" >Unit &lt;<arg fmt="%s" index="1">BoothWallaceMult16Bit</arg>&gt;: instances &lt;<arg fmt="%s" index="2">[21].FAWT00_1</arg>&gt;, &lt;<arg fmt="%s" index="3">[22].FAWT00_1</arg>&gt; of unit &lt;<arg fmt="%s" index="4">FullAdder</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="new" >Unit &lt;<arg fmt="%s" index="1">BoothWallaceMult16Bit</arg>&gt;: instances &lt;<arg fmt="%s" index="2">[21].FAWT00_1</arg>&gt;, &lt;<arg fmt="%s" index="3">[23].FAWT00_1</arg>&gt; of unit &lt;<arg fmt="%s" index="4">FullAdder</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="new" >Unit &lt;<arg fmt="%s" index="1">BoothWallaceMult16Bit</arg>&gt;: instances &lt;<arg fmt="%s" index="2">[21].FAWT00_1</arg>&gt;, &lt;<arg fmt="%s" index="3">[24].FAWT00_1</arg>&gt; of unit &lt;<arg fmt="%s" index="4">FullAdder</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="new" >Unit &lt;<arg fmt="%s" index="1">BoothWallaceMult16Bit</arg>&gt;: instances &lt;<arg fmt="%s" index="2">[21].FAWT00_1</arg>&gt;, &lt;<arg fmt="%s" index="3">[25].FAWT00_1</arg>&gt; of unit &lt;<arg fmt="%s" index="4">FullAdder</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="new" >Unit &lt;<arg fmt="%s" index="1">BoothWallaceMult16Bit</arg>&gt;: instances &lt;<arg fmt="%s" index="2">[21].FAWT00_1</arg>&gt;, &lt;<arg fmt="%s" index="3">[26].FAWT00_1</arg>&gt; of unit &lt;<arg fmt="%s" index="4">FullAdder</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="new" >Unit &lt;<arg fmt="%s" index="1">BoothWallaceMult16Bit</arg>&gt;: instances &lt;<arg fmt="%s" index="2">[21].FAWT00_1</arg>&gt;, &lt;<arg fmt="%s" index="3">[27].FAWT00_1</arg>&gt; of unit &lt;<arg fmt="%s" index="4">FullAdder</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="new" >Unit &lt;<arg fmt="%s" index="1">BoothWallaceMult16Bit</arg>&gt;: instances &lt;<arg fmt="%s" index="2">[21].FAWT00_1</arg>&gt;, &lt;<arg fmt="%s" index="3">[28].FAWT00_1</arg>&gt; of unit &lt;<arg fmt="%s" index="4">FullAdder</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="new" >Unit &lt;<arg fmt="%s" index="1">BoothWallaceMult16Bit</arg>&gt;: instances &lt;<arg fmt="%s" index="2">[21].FAWT00_1</arg>&gt;, &lt;<arg fmt="%s" index="3">[29].FAWT00_1</arg>&gt; of unit &lt;<arg fmt="%s" index="4">FullAdder</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="new" >Unit &lt;<arg fmt="%s" index="1">BoothWallaceMult16Bit</arg>&gt;: instances &lt;<arg fmt="%s" index="2">[21].FAWT00_1</arg>&gt;, &lt;<arg fmt="%s" index="3">[30].FAWT00_1</arg>&gt; of unit &lt;<arg fmt="%s" index="4">FullAdder</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="new" >Unit &lt;<arg fmt="%s" index="1">BoothWallaceMult16Bit</arg>&gt;: instances &lt;<arg fmt="%s" index="2">[27].FAWT02_0</arg>&gt;, &lt;<arg fmt="%s" index="3">[28].FAWT02_0</arg>&gt; of unit &lt;<arg fmt="%s" index="4">FullAdder</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="new" >Unit &lt;<arg fmt="%s" index="1">BoothWallaceMult16Bit</arg>&gt;: instances &lt;<arg fmt="%s" index="2">[27].FAWT02_0</arg>&gt;, &lt;<arg fmt="%s" index="3">[29].FAWT02_0</arg>&gt; of unit &lt;<arg fmt="%s" index="4">FullAdder</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="new" >Unit &lt;<arg fmt="%s" index="1">BoothWallaceMult16Bit</arg>&gt;: instances &lt;<arg fmt="%s" index="2">[27].FAWT02_0</arg>&gt;, &lt;<arg fmt="%s" index="3">[30].FAWT02_0</arg>&gt; of unit &lt;<arg fmt="%s" index="4">FullAdder</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+</messages>
+
