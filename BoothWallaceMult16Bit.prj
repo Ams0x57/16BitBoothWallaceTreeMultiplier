@@ -1,6 +1,0 @@
-verilog work "FullAdder.v"
-verilog work "RippleCarryAdder.v"
-verilog work "HalfAdder.v"
-verilog work "BoothSelector.v"
-verilog work "BoothEncoder.v"
-verilog work "BoothWallaceMult16Bit.v"
